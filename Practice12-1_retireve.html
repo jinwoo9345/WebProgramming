@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>세션스토리지에 검색</title>
+</head>
+<body>
+    <h3>세션스토리지에 구입리스트 검색</h3><hr>
+    품목명:<input id="item" type="text"> 
+    갯수:<input id="count" type="text" ><br>
+    <input type="button" id="save" onclick="retrieve()" value="검색">
+
+    <script>
+        let item = document.getElementById("item");
+        let count = document.getElementById("count");
+
+        function retrieve(){
+            if(!window.sessionStorage){
+                alert("세션스토리 지원 안함");
+                return;
+            }
+            let val = sessionStorage.getItem(item.value);
+            
+            if(val == null){
+                alert(item.value + "는 구입 리스트에 없습니다.")
+            }
+            else
+                count.value = val;
+        }
+    </script>
+</body>
+</html>
