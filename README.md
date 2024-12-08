@@ -28,7 +28,7 @@
      - Practice9-10.html
 7. Week7 연습
    - 10장 실습문제 연습
-     - Practice10-6.html : 실습문제 10-5와 10-6을 포함하여 SetTimeout,SetInterval 이용하여 시계 보이기
+     - Practice10-6.html : 실습문제 10-5와 10-6을 포함
 
 8. 중간고사
 9. Week9 연습
