@@ -43,8 +43,15 @@
       - ex13-10.html
     - 13장 실습문제 연습
       - Practice13-6.html
+    - 고급 자바스크립트 연습
+      - mul.js
+      - timer.js
 11. Week11 연습
     - 고급 자바스크립트 연습
       - ds.js
       - backtic.js
+12. Week12 연습
+    - 고급 자바스크립트 연습
+      - funcPr-practice.js
+      - funcPr-practice2.js
    
