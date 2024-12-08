@@ -45,6 +45,6 @@
       - Practice13-6.html
 11. Week11 연습
     - 고급 자바스크립트 연습
-      -ds.js
-      -backtic.js
+      - ds.js
+      - backtic.js
    
