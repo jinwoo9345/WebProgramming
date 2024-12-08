@@ -16,3 +16,24 @@
       - 직접 객체 만들기
       - 리터럴 표기법
       - 프로토타입 객체 만들기
+5. Week5 연습
+   - 8장 실습문제 연습
+      - Practice8-4.html 
+      - Practice8-6.html
+      - Practice8-9.html
+      - Practice8-10.html
+6. Week6 연습
+   - 9장 실습문제 연습
+     - Practice9-6.html
+     - Practice9-10.html
+7. Week7 연습
+   - 10장 실습문제 연습
+     - Practice10-6.html : 실습문제 10-5와 10-6을 포함하여 SetTimeout,SetInterval 이용하여 시계 보이기
+
+8. 중간고사
+9. Week9 연습
+    - 12장 예제 연습
+      - ex12-1.html
+    - 12장 실습문제 연습
+      - Practice12-1_retireve.html
+      - Practice12-1_store.html
